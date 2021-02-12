@@ -1,1 +1,1 @@
-# zuheb-s-application
+# zuhebs-application
